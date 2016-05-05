@@ -1,0 +1,17 @@
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\University Final Grade Calculator.exe.config
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\University Final Grade Calculator.exe
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\University Final Grade Calculator.pdb
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University_Final_Grade_Calculator.Form1.resources
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University_Final_Grade_Calculator.Properties.Resources.resources
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University Final Grade Calculator.csproj.GenerateResource.Cache
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University Final Grade Calculator.exe
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University Final Grade Calculator.pdb
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\UniversityDatabase.mdf
+c:\users\dario\documents\visual studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\UniversityDatabase_log.ldf
+C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University_Final_Grade_Calculator.Form2.resources
+C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University Final Grade Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University_Final_Grade_Calculator.FinalCustumPanel.resources
+C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University_Final_Grade_Calculator.CustomPanelSummaryTab.resources
+C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University_Final_Grade_Calculator.CustomModulesPanel.resources
+C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\Newtonsoft.Json.xml

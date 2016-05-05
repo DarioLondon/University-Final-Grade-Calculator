@@ -1,0 +1,173 @@
+{
+  "ModulesYearOne": [
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    }
+  ],
+  "ModulesYearTwo": [
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    }
+  ],
+  "ModulesYearThree": [
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    },
+    {
+      "CourseWorkList": [],
+      "Name": "fffff",
+      "Credits": 15,
+      "Id": 0,
+      "Edit": false
+    }
+  ],
+  "Name": "ffff",
+  "AvarageYearOne": 0.0,
+  "AvarageYearTwo": 0.0,
+  "AvarageYearThree": 0.0
+}
