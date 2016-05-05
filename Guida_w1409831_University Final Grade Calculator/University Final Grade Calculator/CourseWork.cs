@@ -4,7 +4,7 @@ namespace University_Final_Grade_Calculator
 {
     public  class CourseWork
     {
-
+        // Getter Setter 
         public string Type { get; set; }
         public int Id { get; set; }
         public int Weight { get; set; }

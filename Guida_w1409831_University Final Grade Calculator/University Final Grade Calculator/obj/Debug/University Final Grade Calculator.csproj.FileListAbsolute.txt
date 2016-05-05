@@ -15,3 +15,6 @@ C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calc
 C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University_Final_Grade_Calculator.CustomModulesPanel.resources
 C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Dario\Documents\Visual Studio 2015\Projects\University Final Grade Calculator\University Final Grade Calculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dario\Source\Repos\University-Final-Grade-Calculator\Guida_w1409831_University Final Grade Calculator\University Final Grade Calculator\bin\Debug\University Final Grade Calculator.exe.config
+C:\Users\Dario\Source\Repos\University-Final-Grade-Calculator\Guida_w1409831_University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University Final Grade Calculator.exe
+C:\Users\Dario\Source\Repos\University-Final-Grade-Calculator\Guida_w1409831_University Final Grade Calculator\University Final Grade Calculator\obj\Debug\University Final Grade Calculator.pdb
